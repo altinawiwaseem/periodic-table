@@ -3,7 +3,7 @@
 **an assignment to color the periodic table using pseudo class :nth-child only**
 _For practicing purpose_
 
-[Test it by yourself](https://altinawiwaseem.github.io/login-page/)
+[Test it by yourself](https://altinawiwaseem.github.io/periodic-table/)
 
 ---
 
